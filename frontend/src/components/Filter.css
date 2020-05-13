@@ -1,0 +1,14 @@
+.filter{
+    width: 20vw;
+    position: fixed;
+    height: 100vh;
+    overflow: scroll;
+    padding-bottom: 20vh;
+}
+.gender-filter{
+    border: .1px solid #e9e9ed;
+    font-size: 14px;
+}
+.price-filter{
+    height: 25vh;
+}
